@@ -3,7 +3,7 @@
 Sistema informático para administrar
 información académica de estudiantes.
 ## Integrantes
-- Hugo Zuniga Candenas
+- Hugo Zuniga Cardenas
 ## Tecnologías
 - C++
 - Git
